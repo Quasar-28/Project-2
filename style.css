@@ -1,0 +1,145 @@
+.page1{
+    background-color: #636C79;
+    
+    
+    
+}
+
+body{
+    margin: 0;
+    padding:0
+}
+
+
+
+    
+
+.header{
+    display: flex;
+    flex-direction: row;   
+    /* align-items: center; */
+}
+
+.navbar{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 16em;
+    padding: 5px;
+    font-size: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 50px;
+}
+.logo{
+    margin-top: 2em;
+    margin-left:3em;
+}
+li{
+    
+    color: antiquewhite;
+    /* margin-inline: 20px; */
+    /* display: inline; */
+    list-style-type:none;
+}
+#but {
+    /* margin-inline: 25px; */
+    background-color:#636C79;
+    border: none;
+    color:antiquewhite;
+    padding: 15px 32px;
+    text-align: center;
+    
+    /* display: inline-block; */
+    font-size: 16px;
+    border: solid #4D4747;
+    border-radius: 12px;
+    min-width: 140px;
+    margin-top: 12px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    
+}
+.footer {
+    /* border: solid black; */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+}
+#im{
+    margin-top: 3em;
+    margin-left: 5em;
+    border-radius: 10px;
+    width: 34em;
+    height:40em;
+    object-fit: cover;
+}
+.right{
+    margin-left: 4em;
+    margin-right: 1em;
+    color: antiquewhite;
+    /*border: solid black;*/
+    text-align: left;
+    height: 36em;
+   
+}
+#p1{
+    font-size: 55px;
+    padding-top: 0.6em;
+    padding-left: 1em;
+    padding-right: 0.5em;
+    
+    
+    
+
+}
+#p2{
+    font-size: 20px;
+    padding-left: 3em;
+    padding-right: 3em;
+   
+}
+.box{
+    margin-top: 3em;
+    display: flex;
+    flex-direction: row;
+    border: solid white;
+    height: 5em;
+    align-items: center;
+    
+    margin-left: 4em;
+    margin-right: 4em;
+    background-color: white;
+    
+    
+}
+#letterbox{
+    width:3em;
+    height:auto;
+    padding-top: 0.4em;
+    padding-left: 1.3em;
+}
+.p4{
+    color: black;
+    font-size: 20px;
+    margin-left: 0.8em;
+    
+    margin-top: 1em;
+    
+}
+.b2{
+    margin-left: 7.2em;
+    margin-right: 4px;
+    width: 140px;
+    height: 3em;
+    font-size: 20px;
+    background-color:#8BB7A2;
+    color: antiquewhite;
+    border: solid #8BB7A2;
+    text-align: center;
+}
+
+
+
+
+
